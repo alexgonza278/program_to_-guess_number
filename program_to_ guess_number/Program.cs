@@ -62,3 +62,5 @@ do
     }
    
 } while (numeroAdiv != numeroSecreto);
+
+Console.ReadKey();
