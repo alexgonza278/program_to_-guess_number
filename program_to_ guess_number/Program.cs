@@ -31,7 +31,8 @@
 //Obviamente hay que hacer un bucle y crear un contador de intentos.
 //Sean honestos con ustedes mismos y usen sus propias neuronas para resolver el problema, y aunque no lo terminen lo importante es intentarlo.
 
-
+//tengo que hacer commit
+//ggggggg
 
 //Genera un numero entero aleatorio de 1 a 20
 int numeroSecreto = new
